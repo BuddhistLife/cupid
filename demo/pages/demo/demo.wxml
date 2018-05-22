@@ -1,0 +1,4 @@
+<!--pages/demo/demo.wxml-->
+<view>
+<button open-type="getUserInfo" bindgetuserinfo="bindGetUserInfo">同意授权登录</button>  
+</view>
